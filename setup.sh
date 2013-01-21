@@ -13,10 +13,7 @@ if [ "$CLEAR_START" = "true" ]; then clear; fi
 
 echo "setup.sh will wide-change your system. "
 read -p "Continue With Script: $i [y/N]? "
-if [ "$REPLY" == "n" ] || [ "$REPLY" == "N" ]; then
-    echo "aborting..."
-    exit
-fi
+if [ "$REPLY" == "y" ] || [ "$REPLY" == "Y" ]; then
 
 # start installation
 echo "Starting installation..."
@@ -37,4 +34,10 @@ fi
 # yum update -y
 
 # final
-echo Installation Successful.
+echo Installation Successful.    
+
+else
+    echo "aborting..."
+    exit
+fi
+
