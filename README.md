@@ -10,3 +10,6 @@ To use this script type at bash:
  
 This script is still in early development mode and shouldn't be started by not expert users.
 Do not use this script on your production server, only for testing purposes!
+
+Files included:
+* setup.sh - main script.
