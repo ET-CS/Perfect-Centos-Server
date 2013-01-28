@@ -7,7 +7,7 @@ How-To
 ------
 To use this script type at bash:
 
-1. check you have git installed (yum install git)  
+1. check you have [git installed][git-itek]
 2. git clone https://github.com/ET-CS/Pefect-Centos-Server.git  
 3. bash setup.sh
  
@@ -23,3 +23,4 @@ To use this script type at bash:
 [setup.sh]: https://github.com/ET-CS/Perfect-Centos-Server/blob/master/setup.sh
 [apps]: https://github.com/ET-CS/Perfect-Centos-Server/tree/master/apps
 [repo]: https://github.com/ET-CS/Perfect-Centos-Server/tree/master/repo
+[git-itek]: http://itekblog.com/how-use-git-on-centos-6-2/
