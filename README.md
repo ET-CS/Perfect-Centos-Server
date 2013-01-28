@@ -11,9 +11,15 @@ To use this script type at bash:
 2. git clone https://github.com/ET-CS/Pefect-Centos-Server.git  
 3. bash setup.sh
  
-    Note: This script is still in early development mode and shouldn't be started by not expert users. Do not use this script on your production server, only for testing purposes!
+    Note: This script is still in early development mode and shouldn't be executed by non-expert users. Do not use this script on your production server, It's only for testing purposes!
 
 ### Files included
 * [setup.sh][setup.sh] - main script.
 
+### Directories included
+* [apps][apps] - apps installation scripts.
+* [repo][repo] - adding repos scripts.
+
 [setup.sh]: https://github.com/ET-CS/Perfect-Centos-Server/blob/master/setup.sh
+[apps]: https://github.com/ET-CS/Perfect-Centos-Server/tree/master/apps
+[repo]: https://github.com/ET-CS/Perfect-Centos-Server/tree/master/repo
