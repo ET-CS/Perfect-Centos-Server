@@ -3,6 +3,8 @@ Perfect-Centos-Server
 
 The "Perfect Centos Server" Installation Script Project aims to create a full set of installation scripts for centos minimal to auto-install production/development server.
 
+    Note: This script is still in early development mode and shouldn't be executed by non-expert users. Do not use this script on your production server, It's only for testing purposes!
+
 How-To
 ------
 
@@ -14,7 +16,6 @@ To use this script type at bash:
     git clone https://github.com/ET-CS/Perfect-Centos-Server.git  
     bash setup.sh
  
-    Note: This script is still in early development mode and shouldn't be executed by non-expert users. Do not use this script on your production server, It's only for testing purposes!
 
 ### Files included
 * [setup.sh][setup.sh] - main script.
