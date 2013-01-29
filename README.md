@@ -5,10 +5,13 @@ The "Perfect Centos Server" Installation Script Project aims to create a full se
 
 How-To
 ------
+
+### Download using git
 * check you have [git installed][git-itek]
 
 To use this script type at bash:
-    git clone https://github.com/ET-CS/Pefect-Centos-Server.git  
+
+    git clone https://github.com/ET-CS/Perfect-Centos-Server.git  
     bash setup.sh
  
     Note: This script is still in early development mode and shouldn't be executed by non-expert users. Do not use this script on your production server, It's only for testing purposes!
