@@ -2,6 +2,10 @@
 # ------------------------------
 # Perfect-Centos-Server script
 # ------------------------------
+#
+# by RaveMaker & ET
+# http://ravemaker.net
+# http://etcs.me
 
 # Script Configuration
 CLEAR_START=true            # clear screen at start
