@@ -1,1 +1,1 @@
-yum install python
+yum install python -y
