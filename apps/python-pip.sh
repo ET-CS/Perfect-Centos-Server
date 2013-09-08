@@ -1,1 +1,1 @@
-yum install python-pip
+yum install python-pip -y
